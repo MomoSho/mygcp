@@ -1,0 +1,12 @@
+#https://www.atlassian.com/git/tutorials/saving-changes/gitignore#git-ignore-patterns
+
+
+*.class
+**/bin/
+**/build/
+*.pyc
+*.exe
+**/target/
+[a-h]*/
+[j-z]*/
+
